@@ -1,0 +1,6 @@
+jupyter==1.0.0
+imap_tools==0.37.0
+MailBox
+python-dotenv==0.16.0
+patool==1.12
+rarfile==4.0
