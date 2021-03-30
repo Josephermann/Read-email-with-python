@@ -1,5 +1,5 @@
 venv/
-dev_utils/.env/
+dev_utils/.env
 dev_utils/__pycache__
 dev_utils/.ipynb_checkpoints/
 .ipynb_checkpoints/
